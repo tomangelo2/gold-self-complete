@@ -1,0 +1,11 @@
+\b;Passo a passo
+Desça a rua que corre ao lado do \l; Centro de Controle de Missões\u object\Huston;. Você encontrará um \l;cubo de titânio\u object\titan; no lado esquerdo da estrada, logo após o \l;robô agarrador\u object\botgr;.
+
+1) Fique de frente para o cubo. Clique no primeiro botão no canto inferior esquerdo da tela: \button 163; <build a \l;centro de pesquisa\u object\research;>.
+2) Caminhe mais abaixo na estrada. O segundo cubo está à direita, passando pelas quatro \l;células de energia\u object\power; verdes.
+3) Repita 1) mas clique no segundo botão: \button 160; <build a \l;fábrica de robôs\u object\factory;>.
+
+Assim que os dois edifícios estiverem concluídos, a missão termina.
+
+\t;Veja também
+\l;Controles\u command;.

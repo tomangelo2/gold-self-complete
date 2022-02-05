@@ -1,0 +1,4 @@
+extern void object::Me1()
+{
+	goto(-52.8, 38.0);
+}

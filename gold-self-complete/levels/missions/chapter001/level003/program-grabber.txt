@@ -1,0 +1,13 @@
+extern void object::Robot1()
+{
+    errmode(0);
+	object rc = radar(ResearchCenter);
+	goto(radar(PowerCell).position);
+	grab();
+	goto(rc.position);
+	drop();
+    research(ResearchTracked);
+	goto(radar(SpaceShip).position);
+    turn(-90);
+    move(3);
+}

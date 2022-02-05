@@ -1,0 +1,24 @@
+\b;Do Centro de Controle de Missões
+Sua \l;espaçonave\u object\base; agora está na plataforma de lançamento, pronta para decolar.
+
+O último exercício para \l;você\u object\human; realizar antes de embarcar em sua jornada é equipar sua espaçonave com sua \l;caixa preta\u object\bbox;. A única maneira de alcançar a \l;caixa preta\u object\bbox; é por um caminho íngreme que só pode ser escalado por um \l; agarrador com esteiras\u object\botgc; que você precisa construir.
+
+Infelizmente, sua \l;fábrica de robôs\u object\factory; ainda não tem a capacidade de montar esse tipo de robô. Você precisa solicitar ao seu \l;centro de pesquisa\u object\research; para criar um modelo para este propulsor em particular.
+
+\b;Procedimento
+1) Alimente o centro de pesquisa com uma das \l;células de energia\u object\power; verdes.
+2) Clique no <tracked bot research program> botão \button 64;.
+3) Deixe um \l;cubo de titânio\u object\titan; no centro da \l;fábrica de robôs\u object\factory; e construa um \l;agarrador com esteiras\u object\botgc;.
+4) Energize e controle por rádio o \l;agarrador com esteiras\u object\botgc; até o topo da montanha orientada para o sudoeste.
+5) Traga a caixa preta de volta a bordo de sua nave espacial.
+6) Não se esqueça de levar o \l;agarrador com rodas\u object\botgr;. Esses robôs podem ser muito úteis no futuro.
+7) Suba a bordo da \l;espaçonave\u object\base;.
+8) Selecione a \l;espaçonave\u object\base; e decole \button 28;.
+
+
+Por favor, note: Para trabalhar de forma mais eficiente, você pode usar o \l;agarrador com rodas\u object\botgr;.
+
+\key;\key help;\norm; permite-lhe rever estas instruções a qualquer momento no seu SatCom pessoal \button 63;.
+
+\t;Veja também
+\l;Controles\u command;.

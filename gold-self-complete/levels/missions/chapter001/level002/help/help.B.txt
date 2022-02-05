@@ -1,0 +1,14 @@
+\b;Do Centro de Controle de Missões
+Esta é sua segunda missão. \l;Você\u object\human; deve agora se familiarizar com o manuseio de equipamentos básicos. Isso pode se tornar seu melhor aliado durante o curso desta expedição.
+
+A construção de edifícios e a fabricação de robôs requerem o uso de \l;titânio\u object\titan;. O titânio é um mineral encontrado na maioria dos sistemas solares do universo.
+
+\b;Procedimento
+1) Posicione-se perto do primeiro \l;cubo de titânio\u object\titan;.
+2) Construa um \l;centro de pesquisas\u object\research; <botão 163/>. Note que apenas \l;você\u object\human; pode realizar a tarefa de construir; nenhum robô pode ser substituído.
+3) Com um segundo \l;cubo de titânio\u object\titan;, construa uma \l;fábrica de robôs\u object\factory; \button 160;.
+
+\key;\key help;\norm; permite-lhe rever estas instruções a qualquer momento no seu SatCom pessoal \button 63;.
+
+\t;Veja também
+\l;Controles\u command;.

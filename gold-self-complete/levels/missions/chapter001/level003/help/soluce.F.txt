@@ -1,0 +1,28 @@
+\b;Solution
+Avant de décoller, vous devez apporter à bord de votre vaisseau spatial les éléments suivants:
+
+1) une \l;boîte noire\u object\bbox;,
+2) Un \l;robot préhenseur à roues\u object\botgr; et un \l;robot préhenseur à chenilles\u object\botgc;.
+3) \l;Vous-même\u object\human;.
+
+Détail des opérations :
+1) Alimentez le \l;centre de recherches\u object\research; avec l'une des \l;batteries (cellule verte)\u object\power;.
+2) Activer le \l;centre de recherches\u object\research; en cliquant sur le bouton \button 64; <tracked bot research program>.
+3) Placer un \l;cube de titane\u object\titan; au centre de \l;l'usine de robots\u object\factory;.
+4) Sortez en reculant afin d'activer \l;l'usine de robots\u object\factory;.
+5) Cliquez sur le bouton \button 138; pour fabriquer un  \l;préhenseur à chenilles\u object\botgc;.
+6) Alimentez le \l;préhenseur à chenilles\u object\botgc; avec une nouvelle \l;batterie\u object\power;.
+7) Télécommandez le \l;préhenseur à chenilles\u object\botgc;jusqu'au sommet de la montagne au sud-ouest.
+8) Saisissez la \l;boîte noire\u object\bbox; et apportez la sur votre \l;vaisseau\u object\base;.
+9) Télécommandez les 2 préhenseurs \l;(à chenilles)\u object\botgc; et \l;(à roues)\u object\botgr; pour qu'ils aillent sur la platforme du vaisseau.
+10) Prenez également place dans le \l;vaisseau\u object\base; vous aussi.
+11) Décollez
+
+Afin de décoller, sélectionnez le \l;vaisseau\u object\base;, à condition qu'il soit visible, en cliquant dessus. S'il n'est pas visible, vous devez cliquer une fois sur le bouton dans le coin supérieur gauche de votre écran. Le triangle bleu \button 130; vous permet d'alterner entre les symboles des robots et les symboles des bâtiments. Cliquez une fois pour passer à la liste des <bâtiments>. Un symbole \button 171; <vaisseau> apparaît. Cliquez sur le bouton pour le sélectionner.
+
+Une fois le vaisseau sélectionné, cliquez sur le bouton \button 28; <décollage> en bas au centre de votre écran. Si les objets mentionnés ci-dessus ainsi que vous-même êtes en effet debout sur le pont, le décollage aura lieu.
+
+Aucun objet ou robot ne doit empêcher la fermeture des huit grands panneaux.
+
+\t;Voir aussi
+\l;Commandes\u command;.

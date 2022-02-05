@@ -1,0 +1,14 @@
+\b;Vom Kontrollzentrum
+Nun Ihre zweite Aufgabe. \l;Sie\u object\human; sollen sich jetzt den Umgang mit der Standardausrüstung aneignen. Sie könnte zu Ihrem zuverlässigsten Begleiter während dieser Expedition werden.
+
+Zum Bau von Gebäuden und Herstellen von Robotern wird \l;Titan\u object\titan; benötigt. Titan ist ein Mineral, das in den meisten Sonnensystemen im Universum gefunden werden kann.
+
+\b;Vorgehensweise
+1) Stellen Sie sich neben den ersten \l;Titanwürfel\u object\titan;.
+2) Bauen Sie ein \l;Forschungszentrum\u object\research; \button 163;. Nehmen Sie zur Kenntnis, dass nur \l;Sie\u object\human; Gebäude bauen können; kein Roboter kann Sie ersetzen.
+3) Mit einem zweiten \l;Titanwürfel\u object\titan; bauen Sie eine \l;Roboterfabrik\u object\factory; \button 160;.
+
+Mit \key;\key help;\norm; können Sie diese Anweisungen zu jeder Zeit noch einmal auf Ihrem SatCom \button 63; einsehen.
+
+\t;Siehe auch
+Die \l;Steuerung\u command;

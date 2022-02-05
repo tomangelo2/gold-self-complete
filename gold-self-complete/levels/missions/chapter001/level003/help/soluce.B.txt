@@ -1,0 +1,28 @@
+\b;Passo a passo
+Antes de decolar, você precisa trazer o seguinte a bordo de sua nave espacial:
+
+1) \l;Caixa preta\u object\bbox;.
+2) Agarradores com \l;rodas\u object\botgr; e com \l;esteiras\u object\botgc;.
+3) \l;Você mesmo\u object\human;.
+
+Aqui está uma análise detalhada das operações:
+1) Energize o \l;centro de pesquisa\u object\research; com uma das \l;células de energia\u object\power; verdes.
+2) Ative o \l;centro de pesquisa\u object\research; e clique no botão \button 64; <tracked bot research program>.
+3) Coloque um \l;cubo de titânio\u object\titan; dentro da \l;fábrica de robôs\u object\factory;.
+4) Volte e ative a \l;fábrica de robôs\u object\factory;.
+5) Clique no botão \button 138; <build a \l;agarrador com esteiras\u object\botgc;>.
+6) Energize o \l;agarrador com esteiras\u object\botgc; com uma nova \l;célula de energia\u object\power;.
+7) Radio-controle o \l;agarrador com esteiras\u object\botgc; para o topo da montanha a sudoeste.
+8) Traga a \l;caixa preta\u object\bbox; de volta a sua \l;espaçonave\u object\base;.
+9) Radio-controle ambos os agarradores \l;com esteiras \u object\botgc; e com <a object\botgr>rodas</ a> na plataforma.
+10) Suba a bordo da \l;espaçonave\u object\base;.
+11) Decole!
+
+Para decolar, selecione a \l;espaçonave\u object\base;, desde que esteja visível, clicando nela. Se não estiver visível, você precisa clicar em um dos botões no canto superior esquerdo da tela. O triângulo azul \button 130; permite alternar entre símbolos para robôs e símbolos para edifícios. Clique uma vez para mudar para a lista <buildings>. Um símbolo \button 171; <spaceship> aparecerá agora. Clique no botão para selecioná-lo.
+
+Quando a espaçonave estiver selecionada, clique no botão maior \button 28; <takeoff> no centro inferior da tela. Se os objetos mencionados acima, bem como você mesmo, estiverem de fato no convés, a decolagem acontecerá.
+
+Nenhum objeto ou robô deve impedir o fechamento das oito grandes portas do painel.
+
+\t;Veja também
+\l;Controles\u command;.

@@ -1,0 +1,49 @@
+extern void object::Me1()
+{
+    errmode(0);
+	object bf = radar(BotFactory);
+	goto(radar(Titanium).position);
+	while(grab() != 0)
+    {
+        turn(direction(radar(Titanium).position));
+        move(0.5);
+    }
+	goto(bf.position);
+    drop();
+	move(-3);
+	while(researched(ResearchTracked) == false)
+	    wait(0.1);
+	factory(TrackedGrabber,"BB1",bf);
+	goto(radar(PowerCell).position);
+	while(grab() != 0)
+    {
+        turn(direction(radar(PowerCell).position));
+        move(0.5);
+    }
+	goto(bf.position);
+    turn(direction(bf.position));
+    move(-3);
+	while(radar(TrackedGrabber) == null)
+	{
+		wait(0.1);
+	}
+	goto(radar(TrackedGrabber).position);
+    wait(0.5);
+	while(drop() != 0)
+    {
+        turn(direction(radar(TrackedGrabber).position));
+        move(0.1);
+        wait(0.5);
+    }
+	goto(radar(SpaceShip).position);
+}
+
+public void object::BB1()
+{
+    errmode(0);
+	goto(radar(BlackBox).position);
+	grab();
+	goto(radar(SpaceShip).position);
+	drop();
+    takeoff();
+}

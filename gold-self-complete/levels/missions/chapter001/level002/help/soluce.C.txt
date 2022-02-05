@@ -1,0 +1,11 @@
+\b;Návod
+Jděte po silnici podél \l;řídícího střediska\u object\huston;. Po levé straně najdete \l;kostku titanu\u object\titan;, hned za \l;pojízdným ramenem\u object\botgr;.
+
+1) Otočte se k titanu. Klikněte na první tlačítko v levém dolním rohu obrazovky: \button 163; Postavit \l;výzkumnou stanici\u object\research;.
+2) Jděte dále po silnici. Druhá kostka je hned za čtyřmi zelenými \l;bateriemi\u object\power;.
+3) Zopakujte krok 1), ale tentokrát klikněte na druhé tlačítko: \button 160; Postavit \l;továrnu na roboty\u object\factory;.
+
+Po dokončení obou budov mise úspěšně skončí.
+
+\t;Užitečné odkazy
+\l;Ovládání\u command;

@@ -1,0 +1,11 @@
+\b;Návod
+Jak najít vybavení pro přežití od své startovní pozice:
+
+1) Jděte po silnici směrem na jih.
+2) Na první křižovatce zahněte na východ (vlevo).
+3) Vybavení pro přežití leží mezi severní zdí řídícího střediska a prvním stromem po pravé straně silnice.
+
+Prostě dojděte až k němu, abyste cvičení úspěšně dokončili.
+
+\t;Užitečné odkazy
+\l;Ovládání\u command;

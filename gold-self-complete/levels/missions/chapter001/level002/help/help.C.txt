@@ -1,0 +1,14 @@
+\b;Zpráva z řídícího střediska
+Toto je \l;Váš\u object\human; druhý cvičný úkol. Musíte se seznámit s ovládáním základního vybavení. Během celé výpravy to může být Vaše nejdůležitější dovednost.
+
+Stavba budov i výroba robotů shodně vyžadují \l;titan\u object\titan;. Tento kov se vyskytuje ve většině planetárních soustav napříč vesmírem.
+
+\b;Postup
+1) Přesuňte se do blízkosti první \l;kostky titanu\u object\titan;.
+2) Postavte \l;výzkumnou stanici\u object\research; \button 163;. Pamatujte, že tuto akci můžete provést pouze \l;Vy\u object\human;; nemůže Vás zastoupit robot.
+3) Z druhé \l;kostky titanu\u object\titan; postavte \l;továrnu na roboty\u object\factory; \button 160;.
+
+Tyto instrukce si můžete kdykoliv znovu přečíst na svém osobním SatKomu \button 63; klávesou \key;\key help;\norm;.
+
+\t;Užitečné odkazy
+\l;Ovládání\u command;

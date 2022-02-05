@@ -1,0 +1,28 @@
+\b;Schritt für Schritt
+Bevor Sie abheben, müssen Sie folgendes auf Ihr Raumschiff bringen:
+
+1) \l;Flugschreiber\u object\bbox;.
+2) \l;Rad-\u object\botgr; und \l;Ketten-\u object\botgc;Transporter.
+3) \l;Sich selbst\u object\human;.
+
+Hier ist eine detaillierte Liste der nötigen Operationen:
+1) Laden Sie das \l;Forschungszentrum\u object\research; mit einer der grünen \l;Batterien\u object\power;.
+2) Aktivieren Sie das \l;Forschungszentrum\u object\research; und klicken Sie dann auf die Schaltfläche \button 64; <Forschungsprogramm Kettenantrieb>.
+3) Platzieren Sie einen \l;Titanwürfel\u object\titan; in der \l;Roboterfabfrik\u object\factory;.
+4) Gehen Sie hinaus zurück und akivieren Sie die \l;Roboterfabrik\u object\factory;.
+5) Klicken Sie auf die Schaltfläche \button 138; <\l;Kettentransporter\u object\botgc; bauen>.
+6) Laden Sie den \l;Kettentransporter\u object\botgc; mit einer brandneuen \l;Batterie\u object\power;.
+7) Steuern Sie per Funk den \l;Kettentransporter\u object\botgc; auf die Spitze des Berges im Südwesten.
+8) Bringen Sie den \l;Flugschreiber\u object\bbox; an Bord Ihres \l;Raumschiffes\u object\base;.
+9) Steuern Sie per Funk den \l;Ketten-\u object\botgc; und den \l;Rad-\u object\botgr;Transporter auf die Plattform des Schiffes.
+10) Gehen Sie an Bord Ihres \l;Raumschiffes\u object\base;.
+11) Heben Sie ab!
+
+Um abzuheben, selektieren Sie das \l;Raumschiff\u object\base;, vorausgesetzt, es ist sichtbar, indem Sie darauf klicken. Falls es nicht sichtbar ist, müssen Sie auf einen der Knöpfe in der linken oberen Ecke des Bildschirms klicken. Das blaue Dreieck \button 130; schaltet hin und her zwischen den Symbolen für Roboter und Symbolen für Gebäude. Klicken Sie einmal darauf, um zu den <Gebäuden> zu wechseln. Ein \button 171; <Raumschiff>-Symbol erscheint. Klicken Sie darauf, um es zu selektieren.
+
+Ist das Schiff selektiert, dann klicken Sie auf die große \button 28; <Abheben>-Schaltfläche in der unteren Mitte des Bildschirms. Wenn die oben genannten Gegenstände sowie Sie selbst sich an Bord befinden, wird der Startvorgang eingeleitet.
+
+Stellen Sie sicher, dass kein Roboter oder ein anderer Gegenstand den Schließvorgang der acht großen Türflächen behindert.
+
+\t;Siehe auch
+Die \l;Steuerung\u command;

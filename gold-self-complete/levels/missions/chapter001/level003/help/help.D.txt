@@ -1,0 +1,24 @@
+\b;Vom Kontrollzentrum
+Ihr \l;Raumschiff\u object\base; steht jetzt auf der Abschussrampe, bereit für den Start.
+
+Die letzte Übung für \l;Sie\u object\human;, bevor Sie zu Ihrer Reise aufbrechen, ist die Ausstattung Ihres Raumschiffs mit einem \l;Flugschreiber\u object\bbox;. Die einzige Möglichkeit, den \l;Flugschreiber\u object\bbox; zu erreichen, ist ein steiler Weg, der nur von einem \l;Kettentransporter\u object\botgc; befahren werden kann, welchen Sie noch bauen müssen.
+
+Leider hat Ihre \l;Roboterfabrik\u object\factory; noch nicht die Möglichkeit, diesen Robotertyp herzustellen. Aus diesem Grund müssen Sie Ihrem \l;Forschungszentrum\u object\research; den Auftrag erteilen, einen detaillierten Plan für diesen Roboter herzustellen.
+
+\b;Vorgehensweise
+1) Versorgen Sie Ihr Forschungszentrum mit Energie, nutzen Sie dafür eine der grünen \l;Batterien\u object\power;.
+2) Klicken Sie auf die Schaltfläche <Forschungsprogramm Kettenantrieb> \button 64;.
+3) Stellen Sie einen \l;Titanwürfel\u object\titan; in die Mitte der \l;Roboterfabrik\u object\factory; und bauen Sie einen \l;Kettentransporter\u object\botgc;.
+4) Versorgen Sie den \l;Kettentransporter\u object\botgc; mit Energie und fahren Sie ihn auf die Spitze des Berges im Südwesten.
+5) Bringen Sie den Flugschreiber an Bord Ihres Raumschiffes.
+6) Vergessen Sie nicht, den \l;Radtransporter\u object\botgr; mitzunehmen. Die Roboter werden sich in Zukunft als sehr nützlich erweisen.
+7) Steigen Sie an Bord Ihres \l;Raumschiffes\u object\base;.
+8) 11) Wählen Sie das \l;Raumschiff\u object\base; an und heben Sie ab \button 28;.
+
+
+Bitte beachten Sie: Um effizienter zu arbeiten, können Sie den \l;Radtransporter\u object\botgr; benutzen.
+
+Mit \key;\key help;\norm; können Sie diese Anweisungen zu jeder Zeit noch einmal auf Ihrem SatCom \button 63; einsehen.
+
+\t;Siehe auch
+Die \l;Steuerung\u command;

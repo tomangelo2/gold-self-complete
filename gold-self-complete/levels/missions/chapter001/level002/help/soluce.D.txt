@@ -1,0 +1,11 @@
+\b;Schritt für Schritt
+Gehen Sie die Straße entlang, die am \l;Kontrollzentrum\u object\Huston; vorbeiführt. Sie werden einen \l;Titanwürfel\u object\titan; auf der linken Seite der Straße finden, gleich hinter dem \l;Transporter\u object\botgr;.
+
+1) Gehen Sie zu dem Würfel. Klicken Sie auf die erste Schaltfläche unten links auf dem Bildschirm: \button 163; <\l;Forschungszentrum\u object\research; bauen>.
+2) Gehen Sie weiter auf der Straße. Der zweite Würfel ist rechts hinter den vier \l;Batterien\u object\power;.
+3) Wiederholen Sie 1) aber klicken Sie auf die zweite Schaltfläche: \button 160; <\l;Roboterfabrik\u object\factory; bauen>.
+
+Sobald beide Gebäude fertiggestellt sind, ist die Mission vorüber.
+
+\t;Siehe auch
+Die \l;Steuerung\u command;

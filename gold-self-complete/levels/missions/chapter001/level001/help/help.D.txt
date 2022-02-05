@@ -1,0 +1,27 @@
+\b;Vom NASA-Trainingszentrum
+Es freut uns, Ihnen mitteilen zu können, dass Sie sich für die Teilnahme am Weltraumforschungsprogramm Colobot qualifiziert haben.
+
+Ihr psychologisches Profil ist zu mehr als 98.84% zufriedenstellend und Ihre Kondition war während der umfassenden Testperiode hervorragend. Detailliertere Informationen zum Testergebnis können Sie unter Ihrer Kennziffer im Zentralcomputer einsehen.
+
+Bitte informieren Sie sich im \l;Houston Kontrollzentrum\u object\Huston; über weitere Anweisungen zu der bevorstehenden Mission.
+
+\b;Vom Houston Kontrollzentrum
+Wie Sie wissen, wird die Erde durch die zunehmende Verunreinigung der Atmosphäre von einer Katastrophe bedroht.
+
+\l;Ihre\u object\human; Mission wird aus der Erforschung unserer Nachbargalaxien bestehen, in der Hoffnung einen Planeten zu finden, der den menschlichen Bedürfnissen entspricht und als Zuflucht für die Menschheit dienen könnte. Sie werden die gesamte Mission über allein sein, es werden aber einige Roboter mit Ihrem Raumschiff transportiert.
+
+Vor acht Monaten wurde schon einmal eine Expedition, die ausschließlich aus Robotern zusammengestellt war, mit dem gleichen Auftrag durch das All geschickt. Sie stieß auf eine Menge Hindernisse, anscheinend landete sie auf Planeten die ungeeignet für eine dauerhafte Kolonisation sind, vielleicht sogar völlig lebensfeindlich. Vor kurzem riss die Verbindung vollständig ab.
+
+Die Gründe für den Fehlschlag dieser Mission sind bis heute ungeklärt, hauptsächlich wegen wiederholten Problemen mit dem Funkkontakt. Wir hoffen, dass es Ihnen gelingt, einige der von dieser Expedition gesammelten Daten für Ihre Zwecke zu nutzen.
+
+\b;Ihr Auftrag
+In der Wüste von Nevada herrscht bereits geschäftiges Treiben. Roboter bauen eine Raumstation, die an Ihre speziellen Bedürfnisse angepasst ist.
+
+Um Sie mit Ihrem Raumanzug und der Ausrüstung vertraut zu machen, haben wir für Sie einige Übungsmissionen erstellt.
+
+In der ersten Übung sollen Sie Ihr Überlebenskit finden, es beinhaltet alle nötigen Hilfsmittel um im kalten Weltraum zu bestehen. Sie können es sehr einfach finden, da es einen orangenfarbenen und einen blauen Tank aufweist.
+
+Mit \key;\key help;\norm; können Sie diese Anweisungen zu jeder Zeit noch einmal auf Ihrem SatCom \button 63; einsehen.
+
+\t;Siehe auch
+Die \l;Steuerung\u command;

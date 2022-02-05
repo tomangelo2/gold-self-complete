@@ -1,0 +1,11 @@
+\b;Passo a passo
+Para encontrar o kit de sobrevivência do seu ponto de partida:
+
+1) Siga a estrada em direção ao sul.
+2) Vire para leste (esquerda) no primeiro cruzamento.
+3) O kit de sobrevivência fica entre a parede norte do Controle da Missão e a primeira árvore do lado direito da estrada.
+
+Apenas posicione-se perto dele para completar com sucesso a missão.
+
+\t;Veja também
+\l;Controles\u command;.

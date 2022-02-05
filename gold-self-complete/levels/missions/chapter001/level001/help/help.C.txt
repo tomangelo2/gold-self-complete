@@ -1,0 +1,27 @@
+\b;Zpráva z výcvikového střediska NASA
+S radostí Vám oznamujeme, že jste byli vybráni na vesmírnou průzkumnou misi Colobot.
+
+Váš psychologický profil vyhovuje z 98,84 % a během dlouhých a náročných zkoušek jste prokázali neobyčejnou zdatnost. Podrobné výsledky máte k dispozici v centrálním počítači pod Vaším osobním číslem.
+
+Hlaste se prosím v \l;řídícím středisku Houston\u object\huston; pro další rozkazy ohledně Vaší nadcházející mise.
+
+\b;Zpráva z řídícího střediska Houston
+Jak jistě víte, Zemi hrozí důsledkem znečištění ovzduší neodvratná katastrofa.
+
+\l;Vaše\u object\human; mise sestává z průzkumu sousedních galaxií v naději, že naleznete planetu vhodnou pro lidský život a snad i nový domov pro lidstvo. Po celou misi budete úplně sami, ale na palubě rakety s sebou povezete několik robotů.
+
+Před osmi měsíci jsme do vesmíru vyslali výpravu složenou výhradně z robotů se stejným úkolem. Ta po cestě narazila na řadu překážek a přistála na několika planetách nevhodných pro kolonizaci, některých přímo smrtelně nebezpečných. Nedávno pak bylo spojení s výpravou zcela přerušeno.
+
+Příčina neúspěchu výpravy v tuto chvíli není jasná, především kvůli opakovaným výpadkům spojení. Doufáme, že dokážete data shromážděná předchozí výpravou nějak zužitkovat.
+
+\b;Bezprostřední úkol
+Nevadská poušť už se hemží přípravami. Roboti sestavují vesmírnou stanici uzpůsobenou všem Vašim potřebám.
+
+Přichystali jsme několik výcvikových úkolů, abyste se důkladně seznámili se svým skafandrem a vybavením.
+
+V prvním cvičení musíte najít své vybavení pro přežití, které obsahuje vše potřebné, abyste mohli čelit chladu vnějšího vesmíru. Snadno ho poznáte podle oranžové a modré nádržky po stranách.
+
+Tyto instrukce si můžete kdykoliv znovu přečíst na svém osobním SatKomu \button 63; klávesou \key;\key help;\norm;.
+
+\t;Užitečné odkazy
+\l;Ovládání\u command;

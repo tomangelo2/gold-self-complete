@@ -1,0 +1,27 @@
+\b;Do Centro de Treinamento da NASA
+Temos o prazer de informar que você foi selecionado para a missão de exploração espacial Colobot.
+
+Seu perfil psicológico foi estabelecido como mais de 98,84% favorável, e sua aptidão durante o extenso período de testes foi inegável. Os resultados detalhados estão à sua disposição no computador central, sob o número de registro que foi atribuído a você.
+
+Por favor, reporte-se ao \l;Centro de Controle de Missões Houston\u object\Huston; para mais orientações sobre sua próxima missão.
+
+\b;Do Centro de Controle de Missões Houston
+Como você sabe, a Terra está caminhando para um desastre iminente, devido ao aumento da poluição atmosférica.
+
+\l;Sua\u object\human ; missão consiste em explorar galáxias vizinhas com a esperança de encontrar um planeta que seja adequado às necessidades humanas e, possivelmente, sirva de abrigo para a humanidade. Você estará por conta própria durante toda a missão, mas sua espaçonave levará alguns robôs.
+
+Oito meses atrás, uma expedição composta inteiramente de robôs foi enviada através do cosmos com o mesmo objetivo. Eles encontraram uma boa quantidade de obstáculos ao longo do caminho, aparentemente aterrissando em planetas que eram inadequados para a colonização, mesmo que possivelmente completamente hostis. Muito recentemente, todas as comunicações foram encerradas.
+
+As razões para o fracasso da missão não são claras nesta data, principalmente devido a problemas recorrentes de transmissão. Esperamos que você possa usar alguns dos dados coletados em seu proveito.
+
+\b;Objetivo Imediato
+O deserto de Nevada já está cheio de atividade. Os robôs estão montando uma estação espacial adequada às suas necessidades específicas.
+
+Para deixá-lo familiarizado com seu traje espacial e equipamentos, criamos alguns exercícios de treinamento.
+
+No primeiro exercício, você precisa encontrar o kit de sobrevivência que contém todas as ferramentas necessárias para enfrentar o frio do espaço sideral. É fácil de detectar, pois contém um tanque laranja e um azul.
+
+\key;\key help;\norm; permite-lhe rever estas instruções a qualquer momento no seu SatCom pessoal \button 63;.
+
+\t;Veja também
+\l;Controles\u command;.

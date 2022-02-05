@@ -1,0 +1,11 @@
+\b;Schritt für Schritt
+Um das Überlebenskit von Ihrer Startposition aus zu finden :
+
+1) Folgen Sie der Straße nach Süden.
+2) Biegen Sie an der ersten Kreuzung nach Osten (links) ab.
+3) Das Überlebenskit liegt zwischen der nördlichen Mauer des Kontrollzentrums und dem ersten Baum auf der rechten Seite der Straße.
+
+Gehen Sie einfach ganz nah an es heran, um die Übung abzuschließen.
+
+\t;Siehe auch
+Die \l;Steuerung\u command;

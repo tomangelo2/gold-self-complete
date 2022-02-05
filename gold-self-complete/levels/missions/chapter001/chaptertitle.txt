@@ -1,0 +1,7 @@
+Title.E text="Leaving Earth" resume="Earth"
+Title.C text="Odlet ze Země" resume="Země"
+Title.D text="Weg von der Erde" resume="Erde"
+Title.F text="Départ de la Terre" resume="Terre"
+Title.P text="Pożegnanie z Ziemią" resume="Ziemia"
+Title.B text="Deixando a Terra" resume="Terra"
+Title.R text="Покидая Землю" resume="Земля"

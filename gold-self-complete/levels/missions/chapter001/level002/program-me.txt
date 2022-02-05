@@ -1,0 +1,8 @@
+extern void object::Me1()
+{
+	goto(radar(Titanium).position);
+	build(BotFactory);
+	point p = radar(Titanium).position;
+	goto(p);
+	build(ResearchCenter);
+}

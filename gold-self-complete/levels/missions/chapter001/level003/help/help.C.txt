@@ -1,0 +1,24 @@
+\b;Zpráva z řídícího střediska
+Vaše \l;raketa\u object\base; už čeká na startovní ploše připravená k odletu.
+
+\l;Vaše\u object\human; poslední cvičení před zahájením výpravy je vybavit raketu \l;černou skříňkou\u object\bbox;. Jediná cesta k \l;černé skříňce\u object\bbox; vede po příkrém svahu, který vyjede pouze \l;pásové rameno\u object\botgc;. To si musíte vyrobit.
+
+Bohužel, Vaše \l;továrna na roboty\u object\factory; zatím nedokáže tento typ robota vyrábět. Nejprve musíte zadat \l;výzkumné stanici\u object\research; příkaz, aby vytvořila výrobní plány pro tento druh pohonu.
+
+\b;Postup
+1) Vložte jednu zelenou \l;baterii\u object\power; do výzkumné stanice.
+2) Klikněte na tlačítko Spustit výzkum pásových robotů \button 64;.
+3) Doprostřed \l;továrny na roboty\u object\factory; položte \l;kostku titanu\u object\titan; a vyrobte \l;pásové rameno\u object\botgc;.
+4) Do zdířky \l;pásového ramena\u object\botgc; vložte baterii a dojeďte s ním na vrchol hory na jihozápadě.
+5) Na palubu rakety přivezte černou skříňku.
+6) Nezapomeňte naložit i \l;pojízdné rameno\u object\botgr;. Tito roboti se Vám v budoucnu mohou hodit.
+7) Nastupte do \l;rakety\u object\base;.
+8) Vyberte \l;raketu\u object\base; a odleťte \button 28;.
+
+
+Pamatujte: \l;Pojízdné rameno\u object\botgr; Vám může usnadnit práci.
+
+Tyto instrukce si můžete kdykoliv znovu přečíst na svém osobním SatKomu \button 63; klávesou \key;\key help;\norm;.
+
+\t;Užitečné odkazy
+\l;Ovládání\u command;
